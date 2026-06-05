@@ -1,4 +1,4 @@
-# bfirst - Notes API (backend)
+# first - Notes API (backend)
 
 Small, fast REST API for managing notes used by the bfirst project.
 
